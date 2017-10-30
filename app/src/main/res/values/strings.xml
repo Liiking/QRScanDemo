@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">二维码扫描器</string>
+    <string name="text_share_text">分享文字</string>
+    <string name="text_share_picture">分享图片</string>
+    <string name="text_share_picture_mul">分享多图</string>
+    <string name="drawer_open">打开</string>
+    <string name="drawer_close">关闭</string>
+    <string name="net_error">无网络</string>
+</resources>
