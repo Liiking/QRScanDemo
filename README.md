@@ -1,5 +1,6 @@
 # QRScanDemo
 基于zxing的二维码扫描demo
+#### 关于预览拉伸变形的问题，参见博客： https://blog.csdn.net/qq_1991/article/details/53586408
 #### 效果图如下：
 ![效果图](https://raw.githubusercontent.com/Liiking/QRScanDemo/master/效果图.png)
 #### 扫描页预览：
